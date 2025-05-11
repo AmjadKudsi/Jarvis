@@ -1,0 +1,5 @@
+jarvintel_intel/ 
+__pycache__
+.DS_Store
+contacts.csv
+*.pyc
